@@ -130,6 +130,33 @@ Os testes unitários estão localizados no pacote src/test/java/com/example/demo
 mvn test
 ```
 
+## Resultado dos testes
+
+### Criar Produto
+- Criei o produto com ID 1 e 2
+
+![Logo do projeto](images/CriarProduto.png)
+
+### Obter Todos os Produtos
+
+![Logo do projeto](images/ObterTodosOsProdutos.png)
+
+### Obter Produto por ID
+
+![Logo do projeto](images/ObterProdutoPorID.png)
+
+### Atualizar Produto
+
+![Logo do projeto](images/AtualizarProduto.png)
+
+### Deletar Produto
+
+![Logo do projeto](images/DeletarProduto.png)
+
+### Verificar quantidade de produtos após deletar 1 produto
+
+![Logo do projeto](images/AposDeletarUmProduto.png)
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias para este projeto. Para isso, siga os passos abaixo:
@@ -140,7 +167,7 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Para isso, 
 4. Faça push para a branch (git push origin feature/nova-feature).
 5. Abra um Pull Request.
 
-## Projeto desenvolvido para o curso Full Stack JavaScript - MaisPraTI por Rafael Santos
+## Projeto desenvolvido para o curso Full Stack JavaScript - MaisPraTI - por Rafael Santos
 
 ```bash
   https://github.com/rafaelsanntos
